@@ -2,6 +2,7 @@
 import media
 import fresh_tomatoes
 
+# Our list of movies. The movies are just ones that I enjoy. ;)
 movies = [
 media.Movie("Oscar",
     "https://www.youtube.com/watch?v=CMMtpC7t4s4",
@@ -17,5 +18,6 @@ media.Movie("The Lord of the Rings",
     "https://upload.wikimedia.org/wikipedia/en/8/87/Ringstrilogyposter.jpg"),
 ]
 
+# Show the page in a browser
 fresh_tomatoes.open_movies_page(movies)
 

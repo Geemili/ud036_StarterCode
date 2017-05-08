@@ -1,4 +1,5 @@
 
+# A class to hold movie information. Used to build a page.
 class Movie():
     def __init__(self, title, trailer, poster):
         self.title = title
