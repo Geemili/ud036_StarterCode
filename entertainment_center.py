@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 import media
 import fresh_tomatoes
