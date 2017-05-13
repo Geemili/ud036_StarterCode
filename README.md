@@ -7,6 +7,7 @@ then opens it in the browser.
 Make sure you have python installed (and a browser), and then run:
 
 ```
+$ pip install tmdbsimple
 $ python entertainment_center.py
 ```
 
